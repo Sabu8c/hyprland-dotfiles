@@ -52,6 +52,7 @@ SUPER + SHIFT + Q : open rofi shutdown options menu
 SUPER + D : open app launcher
 SUPER + N : open notifications center
 SUPER + SHIFT + W : run the wallpaper.sh script to choose a wallpaper
+SUPER + SHIFT + S : take a screenshot
 ```
 
 ### Customizing
