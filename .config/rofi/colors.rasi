@@ -1,0 +1,17 @@
+
+/**
+ *
+ * Author : Levi Lacoss (fishyfishfish55)
+ * Github : @fishyfishfish55
+ *
+ * Colors
+ **/
+
+* {
+    background:     #1e1e1e;     /* Dark grey background */
+    background-alt: #2a2a2a;     /* Slightly lighter alt background */
+    foreground:     #d0d0d0;     /* Light grey text */
+    selected:       #606060;     /* Medium grey for selected items */
+    active:         #444444;     /* Slightly darker active state */
+    urgent:         #bbbbbb;     /* Bright grey for urgent/warning */
+}
