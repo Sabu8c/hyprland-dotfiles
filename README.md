@@ -1,8 +1,8 @@
 # ✨ Hyprland Dotfiles 🌿
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-[![en](https://img.shields.io/badge/lang-en-yellow.svg)](https://github.com/JaKooLit/Hyprland-Dots/blob/main/README.md)
-[![uk](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/JaKooLit/Hyprland-Dots/blob/main/i18n/README.uk.md)
+[![en](https://img.shields.io/badge/lang-en-yellow.svg)]()
+[![uk](https://img.shields.io/badge/lang-fr-blue.svg)]()
 
 ---
 
